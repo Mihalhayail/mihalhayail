@@ -1,7 +1,7 @@
 <h1 align='center' >Welcome to My Github Profile!👋</h1>
 <hr>
 
-![Mihalhayail](image/og-image-rev.png)
+![Mihalhayail](image/mihal-github.png)
 
 <div align="center">
    
@@ -21,6 +21,10 @@
 ### About Me
 
 Hi! Aku Mihalhayail, Mahasiswa Sastra Arab di Al-Azhar University, Cairo, dengan minat besar pada pengembangan diri dan eksplorasi ilmu. Memiliki keterampilan di bidang bahasa arab, front end development, desain grafis dan filsafat, aku terus mengembangkan kemampuan agar dapat berkontribusi lebih luas di masa depan.
+
+### Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Social
 

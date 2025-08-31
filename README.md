@@ -47,7 +47,7 @@ Hi! Aku Mihalhayail, Mahasiswa Sastra Arab di Al-Azhar University, Cairo, dengan
 </a>&nbsp;&nbsp;
 
 <hr>
-
+<!-- 
 <div align="center">
   <a href="https://open.spotify.com/user/hayail">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=hayail&count=5&unique=true" alt="Spotify recently played"  />
@@ -58,4 +58,4 @@ Hi! Aku Mihalhayail, Mahasiswa Sastra Arab di Al-Azhar University, Cairo, dengan
 
 <img src="https://raw.githubusercontent.com/mihalhayail/mihalhayail/output/snake.svg" alt="Snake animation" />
 
-###
+### -->

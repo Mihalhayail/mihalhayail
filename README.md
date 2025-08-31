@@ -5,7 +5,7 @@
 
 <div align="center">
    
-   **FrontEnd Developer | Arabic Enthusiast | Muslim Tech** <br>
+   **FrontEnd Developer | Arabic Enthusiast | Muslim Tech** <br><br>
    <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=mihalhayail)](https://github.com/mihalhayail)</a> 
     
    
@@ -24,9 +24,15 @@ Hi! Aku Mihalhayail, Mahasiswa Sastra Arab di Al-Azhar University, Cairo, dengan
 
 ### Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### Social
+### My Stat
+
+![Mihalhayail stats](https://github-readme-stats.vercel.app/api?username=mihalhayail&show_icons=true&theme=solarized-light)
+
+<br>
+
+### My Sosmed
 
 <a href="https://www.instagram.com/mihal-hayail/">
    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -34,17 +40,10 @@ Hi! Aku Mihalhayail, Mahasiswa Sastra Arab di Al-Azhar University, Cairo, dengan
 
 <a href="https://www.linkedin.com/in/mihalhayail-muhammad-sayuti-68171637a/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.tiktok.com/@mihalhayail">
+   <img align="left" alt="Tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 <hr>
-
-![Guitar](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVvMnUzcnFwc3R3NjBoODN3Nm9iNDFheDh4Y3RseWhzMW9zOWl5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yrYexOCqzuIzrA5k6E/giphy.gif)
-
-![Chess](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXA2bzc0OHc1d3ZhY3JvZW5nZjV4N3lqZWsxdjc3dnNoaXhoeTVheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ms3yqSf67KQjnXm6kN/giphy.gif)
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->

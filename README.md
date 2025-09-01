@@ -16,7 +16,7 @@
 - 🧑‍🎓 My name is Mihalhayail
 - 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently learning in Al-Azhar University
-- 👨‍💻 My Portofolio at: [https:mihalhayail.vercel.app](portfolio-web)
+- 👨‍💻 My Portofolio at: [https://mihalhayail.vercel.app](portfolio-web)
 
 ### About Me
 
@@ -54,8 +54,8 @@ Hi! Aku Mihalhayail, Mahasiswa Sastra Arab di Al-Azhar University, Cairo, dengan
   </a>
 </div>
 
-###
+<!-- ###
 
 <img src="https://raw.githubusercontent.com/mihalhayail/mihalhayail/output/snake.svg" alt="Snake animation" />
 
-### -->
+### --> -->
